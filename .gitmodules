@@ -1,6 +1,6 @@
 [submodule "asr-server"]
 	path = asr-server
-	url = https://github.com/jbuck/asr-server.git
+	url = https://github.com/mozilla-speech/asr-server
 [submodule "kaldi"]
 	path = kaldi
-	url = https://github.com/jbuck/kaldi.git
+	url = https://github.com/mozilla-speech/kaldi
